@@ -1,159 +1,214 @@
-<!-- Header Banner - Slightly reduced height -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Uvindu%20Hewage&fontAlignY=40&fontSize=70&desc=Software%20Engineer%20|%20Tech%20Enthusiast&descAlignY=65&animation=fadeIn" width="100%" />
-</div>
-
-<!-- Introduction with Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4F94EF&center=true&vCenter=true&width=435&lines=Hello+there!+%F0%9F%91%8B;I'm+Uvindu+Hewage;Software+Engineer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=500&color=8F48FC&center=true&vCenter=true&random=false&width=750&height=80&lines=Hey+There!+%F0%9F%91%8B;I'm+Uvindu+Hewage!;Software+Engineering+Student!;MERN+Stack+Developer!;Data+Analytics+Enthusiast!" alt="Typing SVG" />
 </h1>
 
-<!-- Profile Views Counter & Social Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=UvinduHewage&color=brightgreen&style=flat-square" alt="Profile Views" />
-  
-  <p></p>
-  <a href="https://www.linkedin.com/in/uvinduhewege/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:uvindu@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/UvinduHewage">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="http://www.uvinduhewege.com">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://github.com/Aryan4884/blob/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://github.com/Aryan4884/blob/output/github-contribution-grid-snake.svg"/>
   </a>
 </div>
 
-<br />
-
-<!-- About Me Section with Side Image -->
-<table>
-  <tr>
-    <td width="60%">
-      <h2>🚀 About Me</h2>
-      <p>
-        I'm a <b>Software Engineer</b> passionate about crafting innovative solutions at the intersection of design and functionality. My journey in tech is driven by curiosity and a desire to create impactful user experiences.
-      </p>
-      <ul>
-        <li>🔭 Currently building: <b>Hotel Management System</b> & <b>Sub-Contractor Agreement Web App</b></li>
-        <li>🌱 Expanding my skills in: <b>React Native</b>, <b>ASP.NET Core</b>, and <b>AWS Cloud</b></li>
-        <li>💬 Let's talk about: <b>JavaScript</b>, <b>React</b>, <b>PHP</b>, <b>Tailwind CSS</b>, and <b>SQL</b></li>
-        <li>🌟 Philosophy: "The journey of a thousand lines of code begins with a single semicolon."</li>
-        <li>⚡ Fun fact: When I'm not coding, you can find me swimming 🏊 or exploring new tech trends</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- Languages Used -->
-<h2 align="center">📊 Languages & Usage</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduHewage&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="60%" alt="Most Used Languages" />
+  <a href="https://www.linkedin.com/in/uvindu-udakara-magedara-hewage/">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  </a>
+  <a href="mailto:hewageuvindu@gmail.com">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  </a>
+  <a href="https://github.com/U-WarlockX">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+  </a>
 </div>
 
-<br />
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<!-- Tech Stack with Animation -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,html,css,tailwind,mongodb,mysql,git,docker,vscode,aws&theme=dark" alt="Tech Stack" />
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+
+- 🎓 Pursuing **BSc (Hons) Information Technology** at SLIIT
+- 💡 Passionate about **Software Engineering & Data Analytics**
+- 🌱 Currently mastering **MERN Stack & Cloud Technologies**
+- 🚀 Working on **Hospital Timetable Management System**
+- 🏆 Royal College alumnus with achievements in Swimming
+- 🔍 Always exploring **new technologies & frameworks**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=U-WarlockX&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="U-WarlockX" />
+  <img src="https://img.shields.io/github/followers/U-WarlockX?label=Followers&style=for-the-badge&color=blueviolet" alt="U-WarlockX" />
+</p>
+
+<details>
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
   
-  <br /><br />
+  <h3>👨‍💻 Programming & Markup Languages</h3>
+  <p>
+    <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=kotlin&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge"></a>
+  </p>
+
+  <h3>🧰 Frameworks & Libraries</h3>
+  <p>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
+    <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></a>
+  </p>
+
+  <h3>🗄️ Databases & Cloud Hosting</h3>
+  <p>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=for-the-badge"></a>
+  </p>
+
+  <h3>💻 Software & Tools</h3>
+  <p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white&style=for-the-badge"></a>
+  </p>
+</details>
+
+<details>
+  <summary><h2>🔥 My Projects</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/U-WarlockX/TinkerbellVehicleRental">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=U-WarlockX&repo=TinkerbellVehicleRental&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="TinkerbellVehicleRental">
+    </a>
+    <a href="https://github.com/U-WarlockX/SustainableCommunityManagement">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=U-WarlockX&repo=SustainableCommunityManagement&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="SustainableCommunityManagement">
+    </a>
+    <a href="https://github.com/U-WarlockX/Hospital-Timetable-Management">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=U-WarlockX&repo=Hospital-Timetable-Management&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Hospital-Timetable-Management">
+    </a>
+  </p>
+
+  <h3>✨ Project Highlights</h3>
   
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Ecosystem&align=center&fontFamily=Roboto&lineCount=1&theme=github_dark&line1=amazonwebservices,AWS,FF9900;react,React,61DAFB;javascript,JavaScript,F7DF1E;typescript,TypeScript,3178C6;php,PHP,777BB4;node.js,Node.js,339933;" alt="Tech Stack Diagram" />
-</div>
-
-<br />
-
-<!-- Current Projects -->
-<h2 align="center">🌱 Current Projects</h2>
-<div align="center">
   <table>
     <tr>
-      <td width="33%" align="center">
-        <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100px" height="100px" alt="Hotel" />
-        <br>
-        <h3>Hotel Management System</h3>
-        <p>A comprehensive solution for managing hotel operations, bookings, and guest interactions.</p>
+      <td>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" alt="Car" width="25" /> <b>Tinkerbell Vehicle Rental System</b><br>
+        A comprehensive car rental management system with user authentication, booking management, and availability tracking.<br>
+        <b>Tech Stack:</b> PHP, JavaScript, HTML, CSS, MySQL
       </td>
-      <td width="33%" align="center">
-        <img src="https://media.giphy.com/media/xUPGcyR2e8fjAMSP7i/giphy.gif" width="100px" height="100px" alt="Contract" />
-        <br>
-        <h3>Sub-Contractor Agreement App</h3>
-        <p>Platform for creating, managing, and signing digital sub-contractor agreements.</p>
+      <td>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Deciduous%20Tree.png" alt="Tree" width="25" /> <b>Sustainable Community Management System</b><br>
+        Platform for community collaboration and sustainable resource management with real-time updates.<br>
+        <b>Tech Stack:</b> MongoDB, Express.js, React.js, Node.js, Firebase, Tailwind CSS, Redux
       </td>
-      <td width="33%" align="center">
-        <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="100px" height="100px" alt="Tasks" />
-        <br>
-        <h3>Task Management App</h3>
-        <p>User-friendly task manager with prioritization and tracking features.</p>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hospital.png" alt="Hospital" width="25" /> <b>Hospital Timetable Management System</b> (Ongoing)<br>
+        System to streamline scheduling and improve resource allocation in hospital settings.<br>
+        <b>Tech Stack:</b> Node.js, React.js, MongoDB, Redux, Firebase
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" /> <b>More Coming Soon!</b><br>
+        Always working on new and exciting projects to expand my skills and create impactful solutions.<br>
+        <b>Tech Stack:</b> Exploring new technologies and frameworks
       </td>
     </tr>
   </table>
+</details>
+
+<details>
+  <summary><h2>🏆 Achievements & Leadership</h2></summary>
+
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>Sports Achievements</h3>
+        <ul>
+          <li>🏊‍♂️ <b>First Place</b> - U/17 50m Back Stroke, Royal College Inter House Aquatic Meet (2017)</li>
+          <li>🏊‍♂️ <b>First Place</b> - U/17 50m Breast Stroke, Royal College Inter House Aquatic Meet (2017)</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3>Leadership Roles</h3>
+        <ul>
+          <li>🏕️ <b>Assistant Instructor</b> - Gold Troop, 42nd Colombo Scout Group (2017)</li>
+          <li>🧭 <b>Assistant Patrol Leader</b> - Hawks Patrol, Gold Troop, 42nd Colombo Scout Group</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Scout Activities</h3>
+        <ul>
+          <li>🏆 <b>Champions (Hawks Patrol)</b> - 27th Lt. Col. M.K.J. Cantlay Challenge Shield (2016)</li>
+          <li>🏕️ <b>Participant</b> - 49th & 51st Colombo Camporee, Colombo Centenary International Scout Jamboree, 9th National Jamboree</li>
+        </ul>
+      </td>
+      <td>
+        <h3>Education</h3>
+        <ul>
+          <li>🎓 <b>BSc (Hons) Information Technology</b> - SLIIT (2022-Present)</li>
+          <li>📚 <b>GCE Advanced Level - Physical Science</b> - Royal College Colombo-07 (Results: 1C & 2S)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</details>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=U-WarlockX&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="U-WarlockX Trophies" />
 </div>
 
-<br />
-
-<!-- Language Proficiency -->
-<h2 align="center">💻 Language Proficiency</h2>
 <div align="center">
-  <img src="https://progress-bar.dev/90/?title=JavaScript&width=450&color=F7DF1E" alt="JavaScript" />
-  <img src="https://progress-bar.dev/85/?title=TypeScript&width=450&color=3178C6" alt="TypeScript" />
-  <img src="https://progress-bar.dev/85/?title=PHP&width=450&color=777BB4" alt="PHP" />
-  <img src="https://progress-bar.dev/80/?title=HTML&width=450&color=E34F26" alt="HTML" />
-  <img src="https://progress-bar.dev/82/?title=CSS&width=450&color=1572B6" alt="CSS" />
-  <img src="https://progress-bar.dev/75/?title=Python&width=450&color=3776AB" alt="Python" />
-  <img src="https://progress-bar.dev/60/?title=Java&width=450&color=007396" alt="Java" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=U-WarlockX&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="U-WarlockX GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=U-WarlockX&layout=compact&langs_count=8&theme=radical" alt="U-WarlockX Top Languages" />
 </div>
 
-<br />
-
-<!-- GitHub Stats with Animation -->
-<h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UvinduHewage&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UvinduHewage&theme=radical&hide_border=true&background=0D1117" width="49%" alt="GitHub Streak" />
-  
-  <br /><br />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=UvinduHewage&theme=radical&no-frame=true&row=1&column=7&margin-w=15" width="100%" alt="Trophy" />
-  
-  <br /><br />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UvinduHewage&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=U-WarlockX&theme=radical&hide_border=false" alt="U-WarlockX GitHub Streak" />
 </div>
 
-<br />
+## 📈 Contribution Graph
 
-<!-- Framework & Tool Proficiency -->
-<h2 align="center">🔧 Framework & Tool Proficiency</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=U-WarlockX&bg_color=141321&color=fe428e&line=f8d847&point=fe428e&area=true&hide_border=true" alt="Contribution Graph" />
+
+## 🎵 Spotify Playing
+
 <div align="center">
-  <img src="https://progress-bar.dev/90/?title=React&width=450&color=61DAFB" alt="React" />
-  <img src="https://progress-bar.dev/80/?title=Node.js&width=450&color=339933" alt="Node.js" />
-  <img src="https://progress-bar.dev/90/?title=Tailwind%20CSS&width=450&color=06B6D4" alt="Tailwind" />
-  <img src="https://progress-bar.dev/75/?title=AWS&width=450&color=FF9900" alt="AWS" />
-  <img src="https://progress-bar.dev/85/?title=Git&width=450&color=F05032" alt="Git" />
-  <img src="https://progress-bar.dev/70/?title=Docker&width=450&color=2496ED" alt="Docker" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hiqnuvae4fatmxs6ngbu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=141321&interchange=true&bar_color=53b14f&bar_color_cover=false" />
 </div>
 
-<br />
+## 🤙 Connect With Me
 
-<!-- Coding Quote with Animation -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <a href="https://www.linkedin.com/in/uvindu-udakara-magedara-hewage/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hewageuvindu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/U-WarlockX">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://wa.me/94719456781">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </div>
 
-<br />
-
-<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="150" />
+  <p>Thanks for visiting! Let's connect and build something amazing together!</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8F48FC&center=true&vCenter=true&random=false&width=435&lines=Have+a+great+day!;Happy+coding!" alt="Typing SVG" />
 </div>
