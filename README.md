@@ -30,30 +30,26 @@
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
 
-<div align="center">
-  <table>
+<div align="center" style="font-family: sans-serif; padding: 20px;">
+  <h2>🚀 My Tech Stack</h2>
+  <table style="width: 90%; border-spacing: 40px;">
     <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,html,css,bootstrap,materialui" alt="Frontend Technologies" />
-        </div>
+      <td align="center" style="vertical-align: top; width: 30%; background: #f8f9fa; border-radius: 12px; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <h3 style="margin-bottom: 15px;">🎨 Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,html,css,bootstrap,materialui" alt="Frontend Technologies" />
       </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Backend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,php,java,python" alt="Backend Technologies" />
-        </div>
+      <td align="center" style="vertical-align: top; width: 30%; background: #f8f9fa; border-radius: 12px; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <h3 style="margin-bottom: 15px;">🛠️ Backend</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,php,java,python" alt="Backend Technologies" />
       </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Tools</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,aws" alt="Development Tools" />
-        </div>
+      <td align="center" style="vertical-align: top; width: 30%; background: #f8f9fa; border-radius: 12px; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <h3 style="margin-bottom: 15px;">⚙️ Tools</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,aws" alt="Development Tools" />
       </td>
     </tr>
   </table>
 </div>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Stats & Achievements
 
@@ -91,24 +87,41 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="30"> Current Focus
+# 🏥 Hospital Timetable Management System
 
-```javascript
-const currentFocus = {
-    projectInProgress: "Hospital Timetable Management System",
-    learningNow: ["AWS Cloud", "Docker", "React Native"],
-    goals2025: [
-        "Master Microservices Architecture",
-        "Contribute to Open Source",
-        "Build ML-powered applications"
-    ]
-};
-```
+## 🚀 Current Journey
+
+<div align="center">
+  <span style="font-size: 2em">🛠️</span>
+  <h3>Project In Progress</h3>
+  <p>Building a comprehensive solution for healthcare scheduling optimization</p>
+</div>
+
+---
+
+## 🌱 Growing My Tech Garden
+
+<div align="center">
+  <span style="font-size: 1.5em">☁️ AWS Cloud</span> • 
+  <span style="font-size: 1.5em">🐳 Docker</span> • 
+  <span style="font-size: 1.5em">📱 React Native</span>
+</div>
+
+---
+
+## 🔮 Vision for 2025
+
+<div align="center">
+  <h3>🧩 Master Microservices Architecture</h3>
+  <h3>🤝 Contribute to Open Source</h3>
+  <h3>🤖 Build ML-powered Applications</h3>
+</div>
 
 ## <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="30"> Contribution Graph
 
 <div align="center">
   <!-- Add more impressive contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=U-WarlockX&theme=react-dark&bg_color=20232a&hide_border=true&line=8A2BE2&point=8F48FC" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UvinduHewage&theme=react-dark&bg_color=20232a&hide_border=true&line=8A2BE2&point=8F48FC" width="100%" />
 </div>
 
 ## <img src="https://media.giphy.com/media/PoHs1xRuqua3u5KZSD/giphy.gif" width="30"> Connect With Me
