@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/U-WarlockX">
-    <img src="https://github.com/U-WarlockX/U-WarlockX/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="https://github.com/UvinduHewage">
+    <img src="https://github.com/UvinduHewage/UvinduHewage/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
   </a>
 </div>
 
