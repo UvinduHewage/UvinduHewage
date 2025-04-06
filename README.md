@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/UvinduHewage">
-    <img src="https://github.com/UvinduHewage/UvinduHewage/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  </a>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 <div align="center">
