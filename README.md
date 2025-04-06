@@ -185,7 +185,7 @@
 ## 🎵 Spotify Playing
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hiqnuvae4fatmxs6ngbu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=141321&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hiqnuvae4fatmxs6ngbu&cover_image=true&theme=default" alt="Spotify Now Playing" />
 </div>
 
 ## 🤙 Connect With Me
