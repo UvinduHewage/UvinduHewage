@@ -1,22 +1,10 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&pause=500&color=8F48FC&center=true&vCenter=true&random=false&width=750&height=80&lines=console.log(%22Hey+There!%22);System.out.println(%22I'm+Uvindu!%22);print(%22Software+Engineer%22);echo+%22MERN+Stack+Dev%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=500&color=8F48FC&center=true&vCenter=true&random=false&width=750&height=80&lines=console.log(%22Hey+There!%22);System.out.println(%22I'm+Uvindu!%22);print(%22Software+Engineer%22);echo+%22MERN+Stack+Dev%22" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <!-- Replace with more vibrant animation -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Full-Stack%20Developer&fontSize=30&fontAlignY=30&animation=fadeIn&fontColor=ffffff" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/uvindu-udakara-magedara-hewage/">
-    <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logo=appveyor&color=0D1117&logoColor=1572B6"/>
-  </a>
-  <a href="mailto:hewageuvindu@gmail.com">
-    <img height="50" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&logo=appveyor&color=0D1117&logoColor=D14836"/>
-  </a>
-  <a href="https://github.com/U-WarlockX">
-    <img height="50" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic&logo=appveyor&color=0D1117&logoColor=white"/>
-  </a>
 </div>
 
 <div align="center">
@@ -127,16 +115,15 @@ const currentFocus = {
 
 <div align="center">
   <a href="https://www.linkedin.com/in/uvindu-udakara-magedara-hewage/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:hewageuvindu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/U-WarlockX">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://wa.me/94719456781">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" />
   </a>
 </div>
 
