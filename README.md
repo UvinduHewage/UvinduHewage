@@ -10,17 +10,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F48FC&center=true&vCenter=true&random=false&width=435&lines=MERN+Stack+Developer;Data+Analytics+Enthusiast;Problem+Solver;Continuous+Learner;Creative+Thinker" alt="Typing SVG" /></a>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 💼 Professional Summary
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 > **_Full Stack Developer who transforms business challenges into elegant technical solutions._**
 >
 > I specialize in building scalable web applications using the MERN stack while implementing industry best practices in software architecture and design. With a strong foundation in both frontend and backend technologies, I deliver clean, maintainable code that prioritizes user experience and performance.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=UvinduHewage&label=PROFILE+HITS&color=blueviolet&style=for-the-badge" alt="U-WarlockX" />
-  <img src="https://img.shields.io/github/followers/U-WarlockX?label=Followers&style=for-the-badge&color=blueviolet" alt="U-WarlockX" />
+  <img src="https://komarev.com/ghpvc/?username=U-WarlockX&label=PROFILE+HITS&color=blueviolet&style=for-the-badge" alt="UvinduHewage" />
+  <img src="https://img.shields.io/github/followers/U-WarlockX?label=Followers&style=for-the-badge&color=blueviolet" alt="UvinduHewage" />
 </p>
 
 ## 🎓 Education & Background
