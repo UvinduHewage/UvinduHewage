@@ -209,20 +209,24 @@
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/uvindu-udakara-magedara-hewage/">
-    <img width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/uvindu-udakara-magedara-hewage-89159a308/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:hewageuvindu@gmail.com">
-    <img width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/U-WarlockX">
-    <img width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://uvinduhewage.com">
-    <img width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Portfolio.svg" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Portfolio-8F48FC?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Website" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@hewageuvindu">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </div>
 
