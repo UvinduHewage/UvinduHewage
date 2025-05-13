@@ -221,7 +221,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://uvinduhewage.com">
+  <a href="https://uvinduhewage.github.io/MY-PORTFOLIO/">
     <img src="https://img.shields.io/badge/Portfolio-8F48FC?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Website" />
   </a>
   &nbsp;&nbsp;
