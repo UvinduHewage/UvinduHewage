@@ -26,9 +26,9 @@
 
 - **BSc (Hons) Information Technology** @ SLIIT
 - **Royal College** alumnus & accomplished swimmer
-- **Certifications:** AWS Cloud Practitioner, MongoDB Associate Developer
-- ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes!
-
+- **FIT**  I'm currently working as an intern at Hayleys Fentons in Sri Lanka.
+- ⚡ **Fun fact:**    Fun fact Once, while debugging a day-night cycle feature, I spent hours searching for the issue, only to discover it was a
+                       missing semicolon hiding in plain sight! 🌞🌙😅
 ## 🛠️ Technical Expertise
 
 <div align="center">
