@@ -59,47 +59,70 @@
   <table border="0" style="border-collapse: collapse; width: 100%;">
     <tr>
       <td width="50%" valign="top">
-        <h3>Hospital Timetable Management System</h3>
-        <a href="https://github.com/UvinduHewage/Hospital-Timetable-Management">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=Hospital-Timetable-Management&theme=radical&border_color=8F48FC" />
+        <h3>🧹 Cleansy - Smart Cleaning Service</h3>
+        <a href="https://github.com/UvinduHewage/Cleansy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=Cleansy&theme=radical&border_color=8F48FC" />
         </a>
         <p>
-          <b>Impact:</b> Reduced scheduling conflicts by 67% and staff overtime by 23% through intelligent allocation algorithms and intuitive UI.
+          <b>Status:</b> ✅ Completed
         </p>
-        <p><b>Tech:</b> React, Node.js, MongoDB, Express, JWT Auth</p>
+        <p>
+          <b>Impact:</b> Revolutionized on-demand cleaning services with a platform that connects customers to verified professionals, reducing booking time by 75% and increasing service provider efficiency.
+        </p>
+        <p><b>Tech:</b> React, Node.js, Express, MongoDB, Stripe Integration, JWT Auth</p>
       </td>
       <td width="50%" valign="top">
-        <h3>Sustainable Community Management</h3>
-        <a href="https://github.com/UvinduHewage/SustainableCommunityManagement">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=SustainableCommunityManagement&theme=radical&border_color=8F48FC" />
+        <h3>🚗 Vehicle Rental System</h3>
+        <a href="https://github.com/UvinduHewage/Vehicle_Rental_System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=Vehicle_Rental_System&theme=radical&border_color=8F48FC" />
         </a>
         <p>
-          <b>Impact:</b> Implemented resource tracking features that helped communities reduce waste by 40% and optimize energy usage.
+          <b>Status:</b> ✅ Completed
         </p>
-        <p><b>Tech:</b> React, Redux, Express, MongoDB, Chart.js</p>
+        <p>
+          <b>Impact:</b> Created a comprehensive vehicle rental platform that streamlined operations, reduced manual paperwork by 90%, and increased rental booking rates by 42% through an intuitive user interface.
+        </p>
+        <p><b>Tech:</b> Java, Spring Boot, MySQL, Thymeleaf, Bootstrap, REST APIs</p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3>Tinkerbell Vehicle Rental Platform</h3>
-        <a href="https://github.com/UvinduHewage/TinkerbellVehicleRental">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=TinkerbellVehicleRental&theme=radical&border_color=8F48FC" />
+        <h3>🏨 Hotel Management System</h3>
+        <a href="https://github.com/UvinduHewage/Hotel_Management_System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=Hotel_Management_System&theme=radical&border_color=8F48FC" />
         </a>
         <p>
-          <b>Impact:</b> Built a system that increased booking efficiency by 35% and customer satisfaction scores by 28%.
+          <b>Status:</b> 🚧 In Progress
         </p>
-        <p><b>Tech:</b> React Native, Node.js, Firebase, Stripe API</p>
+        <p>
+          <b>Vision:</b> Building an end-to-end solution that optimizes hotel operations from reservations to checkout, with real-time analytics for management decisions and a seamless guest experience platform.
+        </p>
+        <p><b>Tech:</b> React, Redux, Node.js, PostgreSQL, Docker, JWT Auth, Payment Gateway Integration</p>
       </td>
       <td width="50%" valign="top">
-        <h3>More Projects Coming Soon!</h3>
+        <h3>👨‍🍳 Cooking Skill Share</h3>
+        <a href="https://github.com/UvinduHewage/cooking-skill-share">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=cooking-skill-share&theme=radical&border_color=8F48FC" />
+        </a>
         <p>
-          Currently working on exciting new projects involving:
-          <ul>
-            <li>AWS Cloud Architecture</li>
-            <li>Microservices with Docker & Kubernetes</li>
-            <li>React Native Mobile Applications</li>
-          </ul>
+          <b>Status:</b> 🚧 In Progress
         </p>
+        <p>
+          <b>Vision:</b> Creating a community-driven platform where cooking enthusiasts can share recipes, techniques, and conduct virtual cooking classes, fostering a global culinary knowledge exchange.
+        </p>
+        <p><b>Tech:</b> MERN Stack, WebRTC, AWS S3, Socket.io, Material UI</p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <h3>🌟 Spotlight: Creative Coding</h3>
+        <a href="https://github.com/UvinduHewage/3D_Spinning_Ball">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=3D_Spinning_Ball&theme=radical&border_color=8F48FC" style="max-width: 60%;" />
+        </a>
+        <p>
+          A mesmerizing 3D spinning ball visualization built with WebGL and Three.js, demonstrating creative coding skills and visual effects programming.
+        </p>
+        <p><b>Tech:</b> JavaScript, Three.js, WebGL, CSS3D</p>
       </td>
     </tr>
   </table>
