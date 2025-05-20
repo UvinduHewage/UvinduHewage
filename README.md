@@ -18,8 +18,8 @@
 > I specialize in building scalable web applications using the MERN stack while implementing industry best practices in software architecture and design. With a strong foundation in both frontend and backend technologies, I deliver clean, maintainable code that prioritizes user experience and performance.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=U-WarlockX&label=PROFILE+HITS&color=blueviolet&style=for-the-badge" alt="UvinduHewage" />
-  <img src="https://img.shields.io/github/followers/U-WarlockX?label=Followers&style=for-the-badge&color=blueviolet" alt="UvinduHewage" />
+  <img src="https://komarev.com/ghpvc/?username=UvinduHewage&label=PROFILE+HITS&color=blueviolet&style=for-the-badge" alt="UvinduHewage" />
+  <img src="https://img.shields.io/github/followers/UvinduHewage?label=Followers&style=for-the-badge&color=blueviolet" alt="UvinduHewage" />
 </p>
 
 ## 🎓 Education & Background
@@ -27,8 +27,8 @@
 - **BSc (Hons) Information Technology** @ SLIIT
 - **Royal College** alumnus & accomplished swimmer
 - **FIT**  I'm currently working as an intern at Hayleys Fentons in Sri Lanka.
-- ⚡ **Fun fact:**    Fun fact Once, while debugging a day-night cycle feature, I spent hours searching for the issue, only to discover it was a
-                       missing semicolon hiding in plain sight! 🌞🌙😅
+- ⚡ **Fun fact:** Once, while debugging a day-night cycle feature, I spent hours searching for the issue, only to discover it was a missing semicolon hiding in plain sight! 🌞🌙😅
+
 ## 🛠️ Technical Expertise
 
 <div align="center">
@@ -136,10 +136,10 @@
 
 <div align="center">
   <a href="https://github.com/UvinduHewage">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=UvinduHewage&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10" alt="UvinduHewage GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UvinduHewage&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10" alt="UvinduHewage GitHub Stats" />
   </a>
   <a href="https://github.com/UvinduHewage">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UvinduHewage&layout=compact&langs_count=7&theme=radical&border_radius=10" alt="UvinduHewage Most Used Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduHewage&layout=compact&langs_count=7&theme=radical&border_radius=10" alt="UvinduHewage Most Used Languages" />
   </a>
 </div>
 
@@ -174,6 +174,26 @@
       <td align="center" width="20%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
         <br>Java
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table border="0" style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=UvinduHewage&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+  
+  <table border="0" style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduHewage&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -240,7 +260,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/U-WarlockX">
+  <a href="https://github.com/UvinduHewage">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
