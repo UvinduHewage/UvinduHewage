@@ -36,57 +36,80 @@
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> Tech Superpowers
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored line" width="100%">
-</div>
-
-<div align="center">
-  <h3>🎨 Frontend Magic</h3>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,html,css,bootstrap,materialui&theme=dark&perline=4" alt="Frontend Technologies" />
-  <p><em>Creating captivating user experiences that blend form and function</em></p>
-  
-  <h3>⚙️ Backend Wizardry</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,php,java,python&theme=dark&perline=4" alt="Backend Technologies" />
-  <p><em>Architecting powerful digital foundations with scalability in mind</em></p>
-  
-  <h3>🛠️ DevOps Arsenal</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,postman,linux&theme=dark&perline=4" alt="DevOps Tools" />
-  <p><em>Streamlining development workflows for maximum efficiency</em></p>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored line" width="100%">
+  <table border="0" style="border-collapse: collapse; width: 100%; background: transparent;">
+    <tr>
+      <td align="center" width="33%">
+        <h3>🎨 Frontend Magic</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> 
+          <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> 
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /><br/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        </p>
+        <p><em>Creating captivating user experiences</em></p>
+      </td>
+      <td align="center" width="33%">
+        <h3>⚙️ Backend Wizardry</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /><br/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+        </p>
+        <p><em>Building robust digital foundations</em></p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🛠️ DevOps Arsenal</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br/>
+          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /><br/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+        </p>
+        <p><em>Streamlining development workflows</em></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## <img src="https://media.giphy.com/media/n6jamQBSiNWUM/giphy.gif" width="30px"> Featured Creations
 
 <div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <a href="https://github.com/UvinduHewage/Cleansy" style="flex: 1; min-width: 400px;">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=Cleansy&theme=radical&border_color=FF1493&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" />
-    </a>
-    <a href="https://github.com/UvinduHewage/Vehicle_Rental_System" style="flex: 1; min-width: 400px;">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=Vehicle_Rental_System&theme=radical&border_color=89DDFF&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" />
-    </a>
-  </div>
-
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-    <a href="https://github.com/UvinduHewage/Hotel_Management_System" style="flex: 1; min-width: 400px;">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=Hotel_Management_System&theme=radical&border_color=C792EA&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" />
-    </a>
-    <a href="https://github.com/UvinduHewage/cooking-skill-share" style="flex: 1; min-width: 400px;">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=cooking-skill-share&theme=radical&border_color=82AAFF&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" />
-    </a>
-  </div>
-
-  <div style="display: flex; justify-content: center; margin-top: 10px;">
-    <a href="https://github.com/UvinduHewage/3D_Spinning_Ball">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=3D_Spinning_Ball&theme=radical&border_color=8A2BE2&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" />
-    </a>
-  </div>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored line" width="100%">
+  <a href="https://github.com/UvinduHewage/Cleansy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=Cleansy&theme=radical&border_color=FF1493&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" />
+  </a>
+  <a href="https://github.com/UvinduHewage/Vehicle_Rental_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=Vehicle_Rental_System&theme=radical&border_color=89DDFF&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/UvinduHewage/Hotel_Management_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=Hotel_Management_System&theme=radical&border_color=C792EA&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" />
+  </a>
+  <a href="https://github.com/UvinduHewage/cooking-skill-share">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=cooking-skill-share&theme=radical&border_color=82AAFF&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/UvinduHewage/3D_Spinning_Ball">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=3D_Spinning_Ball&theme=radical&border_color=8A2BE2&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" style="max-width: 60%;" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 </div>
 
 ## <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px"> GitHub Metrics
@@ -96,8 +119,16 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UvinduHewage&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD&border_color=8A2BE2&border_radius=10" alt="UvinduHewage GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduHewage&layout=compact&langs_count=7&theme=radical&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD&border_color=FF1493&border_radius=10" alt="UvinduHewage Most Used Languages" />
+  <table border="0" style="border-collapse: collapse; width: 100%; background: transparent;">
+    <tr>
+      <td align="center" width="50%">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=UvinduHewage&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD&border_color=8A2BE2&border_radius=10" alt="UvinduHewage GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduHewage&layout=compact&langs_count=7&theme=radical&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD&border_color=FF1493&border_radius=10" alt="UvinduHewage Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -109,73 +140,87 @@
 <div align="center">
   <h3>💻 My Coding Universe</h3>
   
-  <div>
-    <img height="150" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
-    <img height="150" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" />&nbsp;&nbsp;
-    <img height="150" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" />&nbsp;&nbsp;
-    <img height="150" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />&nbsp;&nbsp;
-    <img height="150" src="https://cdn.simpleicons.org/java/007396" alt="Java" />
-  </div>
-  
-  <div style="margin-top: 20px;">
-    <span style="display: inline-block; width: 20%; font-weight: bold;">JavaScript</span>
-    <span style="display: inline-block; width: 20%; font-weight: bold;">React</span>
-    <span style="display: inline-block; width: 20%; font-weight: bold;">Node.js</span>
-    <span style="display: inline-block; width: 20%; font-weight: bold;">Python</span>
-    <span style="display: inline-block; width: 20%; font-weight: bold;">Java</span>
-  </div>
-  
-  <div style="margin-top: 30px;">
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px;">
     <img src="https://img.shields.io/badge/JavaScript-55%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript 55%" />
     <img src="https://img.shields.io/badge/React-25%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React 25%" />
     <img src="https://img.shields.io/badge/Node.js-10%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js 10%" />
   </div>
+  
+  <table border="0" style="border-collapse: collapse; width: 100%; background: transparent;">
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="60" alt="JavaScript"/>
+        <p>JavaScript</p>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="60" alt="React"/>
+        <p>React</p>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="60" alt="Node.js"/>
+        <p>Node.js</p>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="60" alt="Python"/>
+        <p>Python</p>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" height="60" alt="Java"/>
+        <p>Java</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="30px"> Growth Journey
 
 <div align="center">
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin: 0 auto;">
-    <div style="flex: 1; min-width: 200px; padding: 15px; background: linear-gradient(135deg, rgba(138, 43, 226, 0.1), rgba(255, 20, 147, 0.1)); border-radius: 10px;">
-      <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" height="60" alt="Learning"/>
-      <h3>Current Explorations</h3>
-      <p>🚀 Cloud Architecture & Serverless Functions</p>
-      <p>🚀 Microservices & API Design</p>
-      <p>🚀 React Native & Cross-Platform Development</p>
-    </div>
-    
-    <div style="flex: 1; min-width: 200px; padding: 15px; background: linear-gradient(135deg, rgba(255, 20, 147, 0.1), rgba(65, 105, 225, 0.1)); border-radius: 10px;">
-      <img src="https://media.giphy.com/media/dCXG1h3h5JhBwwZG5W/giphy.gif" height="60" alt="Goals"/>
-      <h3>Vision 2025</h3>
-      <p>🎯 Master Container Orchestration</p>
-      <p>🎯 Contribute to Major Open Source Projects</p>
-      <p>🎯 Develop AI-Enhanced Applications</p>
-    </div>
-    
-    <div style="flex: 1; min-width: 200px; padding: 15px; background: linear-gradient(135deg, rgba(65, 105, 225, 0.1), rgba(138, 43, 226, 0.1)); border-radius: 10px;">
-      <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" height="60" alt="Approach"/>
-      <h3>Work Philosophy</h3>
-      <p>💡 First principles problem solver</p>
-      <p>🔄 Adaptive & iterative approach</p>
-      <p>🤝 Empathetic collaboration</p>
-    </div>
-  </div>
+  <table border="0" style="border-collapse: collapse; width: 100%; background: transparent;">
+    <tr>
+      <td align="center" width="33%" style="padding: 15px;">
+        <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" height="60" alt="Learning"/>
+        <h3>Current Explorations</h3>
+        <p>🚀 Cloud Architecture & Serverless Functions</p>
+        <p>🚀 Microservices & API Design</p>
+        <p>🚀 React Native & Cross-Platform Development</p>
+      </td>
+      <td align="center" width="33%" style="padding: 15px;">
+        <img src="https://media.giphy.com/media/dCXG1h3h5JhBwwZG5W/giphy.gif" height="60" alt="Goals"/>
+        <h3>Vision 2025</h3>
+        <p>🎯 Master Container Orchestration</p>
+        <p>🎯 Contribute to Major Open Source Projects</p>
+        <p>🎯 Develop AI-Enhanced Applications</p>
+      </td>
+      <td align="center" width="33%" style="padding: 15px;">
+        <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" height="60" alt="Approach"/>
+        <h3>Work Philosophy</h3>
+        <p>💡 First principles problem solver</p>
+        <p>🔄 Adaptive & iterative approach</p>
+        <p>🤝 Empathetic collaboration</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="30px"> Testimonials
 
 <div align="center">
-  <div style="padding: 20px; border-radius: 10px; background: linear-gradient(135deg, rgba(138, 43, 226, 0.1), rgba(255, 20, 147, 0.1)); margin: 10px;">
-    <img src="https://media.giphy.com/media/ZZZo9EVpp4KeIiMlT2/giphy.gif" width="50" align="left" style="margin-right: 15px;" alt="Quote"/>
-    <i>"Uvindu's ability to translate complex technical requirements into elegant code solutions demonstrates not just technical prowess but a deep understanding of user needs and business objectives."</i>
-    <br>— Project Supervisor, Healthcare Management System
-  </div>
-  
-  <div style="padding: 20px; border-radius: 10px; background: linear-gradient(135deg, rgba(255, 20, 147, 0.1), rgba(65, 105, 225, 0.1)); margin: 10px; margin-top: 20px;">
-    <img src="https://media.giphy.com/media/3HOBsuTjjHfQjIreQR/giphy.gif" width="50" align="left" style="margin-right: 15px;" alt="Teamwork"/>
-    <i>"A natural collaborator who elevates any team they join. Uvindu's positive attitude coupled with technical expertise creates an environment where innovation thrives and challenges become opportunities."</i>
-    <br>— Team Lead, Community Engagement Platform
-  </div>
+  <table border="0" style="border-collapse: collapse; width: 100%; background: transparent;">
+    <tr>
+      <td style="padding: 20px; border-radius: 10px; background: linear-gradient(135deg, rgba(138, 43, 226, 0.1), rgba(255, 20, 147, 0.1)); margin: 10px;">
+        <img src="https://media.giphy.com/media/ZZZo9EVpp4KeIiMlT2/giphy.gif" width="50" align="left" style="margin-right: 15px;" alt="Quote"/>
+        <i>"Uvindu's ability to translate complex technical requirements into elegant code solutions demonstrates not just technical prowess but a deep understanding of user needs and business objectives."</i>
+        <br>— Project Supervisor, Healthcare Management System
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px; border-radius: 10px; background: linear-gradient(135deg, rgba(255, 20, 147, 0.1), rgba(65, 105, 225, 0.1)); margin: 10px;">
+        <img src="https://media.giphy.com/media/3HOBsuTjjHfQjIreQR/giphy.gif" width="50" align="left" style="margin-right: 15px;" alt="Teamwork"/>
+        <i>"A natural collaborator who elevates any team they join. Uvindu's positive attitude coupled with technical expertise creates an environment where innovation thrives and challenges become opportunities."</i>
+        <br>— Team Lead, Community Engagement Platform
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## <img src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30px"> Contribution Tapestry
