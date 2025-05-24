@@ -16,195 +16,71 @@
   <img src="https://img.shields.io/github/followers/UvinduHewage?label=Cosmic+Followers&style=for-the-badge&color=FF1493" alt="UvinduHewage" />
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Professional Journey
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-> **_Digital architect transforming complex challenges into elegant, user-centric solutions._**
->
-> I craft scalable web experiences using the MERN stack while implementing industry best practices in software architecture and design. With a passion for clean code and intuitive interfaces, I build applications that not only work flawlessly but also delight users at every interaction.
 
-## <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="30px"> Education & Background
+# 💫 About Me:
+🔭 I'm currently working on **Hotel Management System**<br>🌱 I'm currently learning **Firebase, Laravel, AWS**<br>👨‍💻 All of my projects are available at **[My Portfolio](https://uvinduhewage.github.io/MY-PORTFOLIO/)**<br>💬 Ask me about **React, MERN Stack, Full-Stack Development**<br>📫 How to reach me **hewageuvindu@gmail.com**<br>📝 I regularly write articles on **[Medium](https://medium.com/@hewageuvindu)**<br>⚡ Fun fact **Once debugged a complex animation issue for hours only to discover it was rendering upside-down because I set Y-axis rotation to 180° instead of X-axis! 🙃**
 
-- 🎓 **BSc (Hons) Information Technology** @ SLIIT
-- 🏫 **Royal College** alumnus & competitive swimmer 🏊‍♂️
-- 💼 Currently interning at **Hayleys Fentons** in Sri Lanka
-- ⚡ **Fun fact:** Once debugged a complex animation issue for hours only to discover it was rendering upside-down because I set Y-axis rotation to 180° instead of X-axis! 🙃
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> Tech Superpowers
+## 🌐 Socials:
+<p align="left">
+<a href="https://dev.to/uvinduhewage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="uvinduhewage" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/uvindu-udakara-magedara-hewage-89159a308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/_uvindu_udakara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://medium.com/@hewageuvindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
+<a href="https://youtube.com/@uvindu7628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+<a href="https://ko-fi.com/uvinduhewage" target="blank"><img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="ko-fi" height="30" width="120" /></a>
+</p> 
 
-<div align="center">
-  <h3>🚀 Technologies I Work With</h3>
-  
-  <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,html,java,js,tailwind&theme=dark&perline=8" alt="Tech Stack 1" />
-  <img src="https://skillicons.dev/icons?i=mysql,nodejs,php,react,python,nextjs,mongodb,express&theme=dark&perline=8" alt="Tech Stack 2" />
-  <img src="https://skillicons.dev/icons?i=git,firebase,kotlin,redux,postman,linux,figma&theme=dark&perline=8" alt="Tech Stack 3" />
-  
-  <p>
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-    <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
-    <img src="https://img.shields.io/badge/WampServer-F70094?style=for-the-badge&logo=wampserver&logoColor=white" alt="WampServer" />
-    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
-  </p>
-</div>
+# 💻 Tech Stack:
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<br><br>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<br><br>
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+<br><br>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+</p>
 
-## <img src="https://media.giphy.com/media/n6jamQBSiNWUM/giphy.gif" width="30px"> Featured Creations
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=UvinduHewage&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=UvinduHewage&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduHewage&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=UvinduHewage&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/UvinduHewage/Cleansy">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=Cleansy&theme=radical&border_color=FF1493&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/UvinduHewage/Vehicle_Rental_System">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=Vehicle_Rental_System&theme=radical&border_color=89DDFF&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/UvinduHewage/Hotel_Management_System">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=Hotel_Management_System&theme=radical&border_color=C792EA&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/UvinduHewage/cooking-skill-share">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=cooking-skill-share&theme=radical&border_color=82AAFF&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/UvinduHewage/3D_Spinning_Ball">
-          <img style="max-width: 60%;" src="https://github-readme-stats.vercel.app/api/pin/?username=UvinduHewage&repo=3D_Spinning_Ball&theme=radical&border_color=8A2BE2&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px"> GitHub Metrics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UvinduHewage&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
-<div align="center">
-  <table border="0" style="border-collapse: collapse; width: 100%; background: transparent;">
-    <tr>
-      <td align="center" width="50%">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=UvinduHewage&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD&border_color=8A2BE2&border_radius=10" alt="UvinduHewage GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduHewage&layout=compact&langs_count=7&theme=radical&bg_color=0D1117&title_color=C792EA&icon_color=F78C6C&text_color=A6ACCD&border_color=FF1493&border_radius=10" alt="UvinduHewage Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=UvinduHewage&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=8A2BE2&currStreakLabel=FF1493&sideLabels=C792EA&ring=FF1493&fire=FF1493&currStreakNum=82AAFF&sideNums=82AAFF" alt="UvinduHewage GitHub Streak" />
-</div>
-
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30px"> Code Portfolio
-
-<div align="center">
-  <h3>💻 My Coding Universe</h3>
-  <table border="0" style="border-collapse: collapse; width: 100%; background: transparent;">
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="60" alt="JavaScript"/>
-        <p>JavaScript</p>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="60" alt="React"/>
-        <p>React</p>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="60" alt="Node.js"/>
-        <p>Node.js</p>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="60" alt="Python"/>
-        <p>Python</p>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" height="60" alt="Java"/>
-        <p>Java</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="30px"> Growth Journey
-
-<div align="center">
-  <table border="0" style="border-collapse: collapse; width: 100%; background: transparent;">
-    <tr>
-      <td align="center" width="33%" style="padding: 15px; background: linear-gradient(135deg, rgba(138, 43, 226, 0.1), rgba(255, 20, 147, 0.1)); border-radius: 10px;">
-        <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" height="60" alt="Learning"/>
-        <h3>Current Explorations</h3>
-        <p>🚀 Cloud Architecture & Serverless Functions</p>
-        <p>🚀 Microservices & API Design</p>
-        <p>🚀 React Native & Cross-Platform Development</p>
-      </td>
-      <td align="center" width="33%" style="padding: 15px; background: linear-gradient(135deg, rgba(255, 20, 147, 0.1), rgba(65, 105, 225, 0.1)); border-radius: 10px;">
-        <img src="https://media.giphy.com/media/dCXG1h3h5JhBwwZG5W/giphy.gif" height="60" alt="Goals"/>
-        <h3>Vision 2025</h3>
-        <p>🎯 Master Container Orchestration</p>
-        <p>🎯 Contribute to Major Open Source Projects</p>
-        <p>🎯 Develop AI-Enhanced Applications</p>
-      </td>
-      <td align="center" width="33%" style="padding: 15px; background: linear-gradient(135deg, rgba(65, 105, 225, 0.1), rgba(138, 43, 226, 0.1)); border-radius: 10px;">
-        <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" height="60" alt="Approach"/>
-        <h3>Work Philosophy</h3>
-        <p>💡 First principles problem solver</p>
-        <p>🔄 Adaptive & iterative approach</p>
-        <p>🤝 Empathetic collaboration</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="30px"> Contribution Tapestry
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UvinduHewage&theme=material-palenight&bg_color=0D1117&hide_border=true&line=C792EA&point=FF1493" width="100%" />
-</div>
-
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30px"> Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/uvindu-udakara-magedara-hewage-89159a308/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:hewageuvindu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" height="40" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/UvinduHewage">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" height="40" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://uvinduhewage.github.io/MY-PORTFOLIO/">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=safari&logoColor=white&logoWidth=30" height="40" alt="Portfolio Website" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@hewageuvindu">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&logoWidth=30" height="40" alt="Medium" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=150&section=footer&text=Let's%20Create%20Digital%20Magic%20Together!&fontSize=24&fontAlignY=80&animation=fadeIn" width="100%" />
