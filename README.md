@@ -13,7 +13,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=UvinduHewage&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="UvinduHewage" />
-  <img src="https://img.shields.io/github/followers/UvinduHewage?label=Cosmic+Followers&style=for-the-badge&color=FF1493" alt="UvinduHewage" />
+  <img src="https://img.shields.io/github/followers/UvinduHewage?label=Followers&style=for-the-badge&color=FF1493" alt="UvinduHewage" />
 </div>
 
 
