@@ -21,7 +21,7 @@
 # <div align="center">Hi there! 👋 I'm Uvindu Hewage</div>
 
 <div align="center">
-  <img src="https://i.imgur.com/your-banner-image.png" alt="U.U.M. Hewage - Software Engineer Banner" />
+  <img src="./UUMHewge_Banner.png" alt="U.U.M. Hewage - Software Engineer Banner" />
 </div>
 
 ---
