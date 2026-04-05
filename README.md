@@ -27,9 +27,9 @@
 ---
 
 ## 🚀 **About Me**
-- 🔭 Currently crafting a **Hotel Management System**
-- 🌱 Exploring **Firebase, Laravel & AWS**
-- 👨‍💻 Check out my work at **[My Portfolio](https://uvinduhewage.github.io/MY-PORTFOLIO/)**
+- 🔭 Currently crafting a **CPM System - Construction Project Management Platform**
+- 🌱 Exploring **Next.js , express.js , AWS**
+- 👨‍💻 Check out my work at **[My Portfolio](https://my-portfolio-nine-gray-73.vercel.app/)**
 - 💬 Let's talk **React, MERN Stack & Full-Stack Development**
 - 📫 Reach me: **hewageuvindu@gmail.com**
 - 📝 Writing on **[Medium](https://medium.com/@hewageuvindu)**
