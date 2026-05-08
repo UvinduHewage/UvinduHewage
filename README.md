@@ -85,9 +85,14 @@
   <img src="https://streak-stats.demolab.com/?user=UvinduHewage&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+---
+
+## <div align="center">🧬 **Code Breakdown**</div>
+
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UvinduHewage&theme=tokyonight&hide_border=true&layout=compact&count_private=true&langs_count=20" alt="What I Code In" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UvinduHewage&theme=tokyonight&hide_border=true&layout=compact&count_private=true&langs_count=20&hide=powershell&size_weight=0.5&count_weight=0.5" alt="Code Breakdown" />
 </div>
+
 
 
 
