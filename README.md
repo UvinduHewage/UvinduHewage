@@ -86,7 +86,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UvinduHewage&theme=tokyonight&hide_border=true&layout=compact&hide=python,powershell&count_private=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UvinduHewage&theme=tokyonight&hide_border=true&layout=compact&count_private=true&langs_count=20" alt="What I Code In" />
 </div>
 
 
