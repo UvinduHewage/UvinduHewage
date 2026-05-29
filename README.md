@@ -90,7 +90,8 @@
 ## <div align="center">🧬 **Code Breakdown**</div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UvinduHewage&theme=tokyonight&hide_border=true&layout=compact&langs_count=20&hide=powershell&size_weight=0.5&count_weight=0.5&include_all_commits=true" alt="Code Breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UvinduHewage&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UvinduHewage&theme=tokyonight" />
 </div>
 
 
@@ -101,7 +102,7 @@
 ## <div align="center">🏆 **Achievements**</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UvinduHewage&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=UvinduHewage&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 
