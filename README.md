@@ -73,7 +73,6 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,aws" />
 <img src="https://skillicons.dev/icons?i=git,figma,ps,postman,arduino" />
 <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="48" height="48" alt="Android Studio" />
-
 </div>
 
 ---
@@ -90,12 +89,25 @@
 ## <div align="center">🧬 **Code Breakdown**</div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UvinduHewage&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UvinduHewage&theme=tokyonight" />
+
+<!-- TOP ROW: Language bars (repos) + Language bars (commits) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UvinduHewage&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UvinduHewage&theme=tokyonight" />
+
 </div>
 
+<!-- ANIMATED SKILL BADGES ROW -->
+<div align="center">
 
+![JavaScript](https://img.shields.io/badge/JavaScript-38%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-22%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-17%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-9%25-777BB4?style=flat-square&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7%25-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-5%25-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Other](https://img.shields.io/badge/Other-2%25-555555?style=flat-square)
 
+</div>
 
 ---
 
@@ -105,14 +117,11 @@
   <img src="https://github-trophies.vercel.app/?username=UvinduHewage&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-
 ---
-
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <!-- Add more impressive contribution graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UvinduHewage&theme=react-dark&bg_color=20232a&hide_border=true&line=8A2BE2&point=8F48FC" width="100%" />
 </div>
 
