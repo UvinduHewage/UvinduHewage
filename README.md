@@ -261,16 +261,11 @@ Currently     : Building scalable full-stack platforms
 
 ---
 
-## 🧬 Code Breakdown
+## 🧬 Language Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UvinduHewage&theme=tokyonight" alt="Repos Per Language" />
-
-<br />
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UvinduHewage&theme=tokyonight" alt="Most Commit Language" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduHewage&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" />
 
 </div>
 
